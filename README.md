@@ -10,6 +10,6 @@ Bili动态抽奖助手——GitHubActions版本（添加兼小改LotteryAutoScri
 
 ## 特别鸣谢
 
-@shanmiteko
+[@shanmiteko](https://github.com/shanmiteko)
 
-@spiritLHLS
+[@spiritLHL](https://github.com/spiritLHLS)
