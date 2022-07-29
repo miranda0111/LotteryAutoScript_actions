@@ -1,4 +1,4 @@
-name: shanmiteko/LotteryAutoScript/bilibili抽奖
+name: 🧧开始抽奖
 on:
   push:
     branches:
