@@ -9,5 +9,7 @@ Bili动态抽奖助手——GitHubActions版本（添加兼小改LotteryAutoScri
 大佬的赞赏码：https://i0.hdslb.com/bfs/album/83958a52f62e81c71b93c683c835deff3b973918.png
 
 ## 特别鸣谢
+
 @shanmiteko
+
 @spiritLHLS
