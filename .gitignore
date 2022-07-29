@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+tests/
+dyids/
+dist/
+.env
+*.log
+package-lock.json
+env.js
+my_config.js
